@@ -1,2 +1,3 @@
-My first readme\n
+My first readme
+
 The only chance for a GitHub update
